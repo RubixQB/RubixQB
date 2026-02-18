@@ -27,14 +27,7 @@ This is where learning, breaking, and securing come together.
 - 🛠️ Penetration Testing Scripts and Tools
 - 🔥 CTF (Capture The Flag) Writeups
 - 📖 Cybersecurity Learning Resources
----
-## 🌐 Connect with Me
 
-- 📫 **Email:** ilambharathi2k.aadhi@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/ilambharathi
-
-
----
 ## ⚡ Fun Fact
 
 > "In cybersecurity, offense informs defense. Learning never stops. 🛡️"
