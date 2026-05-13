@@ -1,40 +1,59 @@
-# 🛡️ Cybersecurity Warrior | Digital Defense & Offensive Security 👨‍💻
+<h1 align="center">⚡ RubixQB ⚡</h1>
+<h3 align="center">From Curiosity to Creation 🚀</h3>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNqODdocWk5cmV6MzJtanJydXhrbmtnY2FjODNtOWp3NXVhYTJhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/chOyZePGEHDoTSY2CA/giphy.gif" alt="Cybersecurity Vibe" />
 </p>
 
 ---
-## 🧠 About This Repository
 
-Welcome to my cybersecurity space! 🛡️  
-This repository contains projects, scripts, research, and resources focused on **vulnerability assessment**, **penetration testing**, **threat hunting**, and **incident response**.
 
-I aim to continuously improve security postures by identifying weaknesses before malicious actors can exploit them.  
-This is where learning, breaking, and securing come together.
+## 👨‍💻 About
+
+Welcome to my technical workspace.
+
+This repository contains projects, research notes, experiments, and learning resources focused on:
+
+- 🔐 Cybersecurity
+- 📡 RF & Wireless Communication
+- ⚙️ Embedded Systems
+- 🌐 Networking
+- 💻 ESP32-Based Projects
+- 🧪 Technical Research & Experimentation
+
+The goal of this repository is to document practical learning, explore modern technologies, and develop practical technical skills through hands-on work.
+
+
+> _Learning never stops. Every device, signal, and protocol has a story to discover._
+---
+
+
+## 📚 Repository Highlights
+
+- 📝 Technical Notes
+- 🔬 Research & Documentation
+- ⚡ Experimental Projects
+- 🌐 Networking Labs
+- ⚙️ Embedded System Concepts
+- 🔐 Security Learning Resources
+
 
 ---
-## 🏆 Achievements
+## 🚀 Areas of Interest
 
-- 🛡️ Completed **Certified Ethical Hacker (CEH v12)**
-- 📜 Earned **Cyber Security Professional Badge** and **Bug Bounty Hunter Certification**
-
-
+- 📶 Wireless Communication
+- 🌐 Network Technologies
+- ⚙️ Embedded Development
+- 🐧 Linux & System Administration
+- 🔍 Security Research
+- 🛠️ Hardware Experimentation
 
 ---
-## 🔥 Repository Highlights
-
-- 🛠️ Penetration Testing Scripts and Tools
-- 🔥 CTF (Capture The Flag) Writeups
-- 📖 Cybersecurity Learning Resources
-
-## ⚡ Fun Fact
-
-> "In cybersecurity, offense informs defense. Learning never stops. 🛡️"
+<h3 align="center">Research • Build • Innovate</h3>
 
 ---
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnk2Z3g0a2k3cjYyZTkxczBvMTJzbm82eGNqcTB1MW11YmJud2lzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IsGrpowifXVWywmbwX/giphy.gif" alt="Cybersecurity Hacker GIF" />
 </p>
-<p align="center">_📚 Keep learning. Keep securing._</p>
+<h3 align="center">📚 Keep Learning • Keep Building • Keep Securing 🔐</h3>
 
